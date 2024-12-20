@@ -26,3 +26,8 @@ Java 17
 - Dependa de abstrações e não de implementações.
 - ✨Analogia ✨
     - Construa tomadas para os plugues, não plugues para as tomadas.
+
+Referências
+- https://github.com/mikeknep/SOLID
+- https://www.alura.com.br/artigos/solid?srsltid=AfmBOooojKDVpyVvgRRQp4ET_fr0qS0KgU0qmQmom0S8dx9Orowb86GY
+- https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530
